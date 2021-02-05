@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "flickity": "^2.2.2",
+    "lodash": "^4.17.20",
+    "slug": "^4.0.2"
+  }
 }
